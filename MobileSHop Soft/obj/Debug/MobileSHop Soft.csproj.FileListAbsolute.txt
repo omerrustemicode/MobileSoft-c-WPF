@@ -1,0 +1,15 @@
+E:\MobileSHop Soft\MobileSHop Soft\bin\Debug\MobileSHop Soft.exe.config
+E:\MobileSHop Soft\MobileSHop Soft\bin\Debug\MobileSHop Soft.exe
+E:\MobileSHop Soft\MobileSHop Soft\bin\Debug\MobileSHop Soft.pdb
+E:\MobileSHop Soft\MobileSHop Soft\bin\Debug\Guna.UI2.dll
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop Soft.csprojAssemblyReference.cache
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop_Soft.start.resources
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop_Soft.Properties.Resources.resources
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop Soft.csproj.GenerateResource.cache
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop Soft.csproj.CoreCompileInputs.cache
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop Soft.csproj.CopyComplete
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop Soft.exe
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop Soft.pdb
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop_Soft.user.Login.resources
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop_Soft.user.phones.resources
+E:\MobileSHop Soft\MobileSHop Soft\obj\Debug\MobileSHop_Soft.user.dashboard.resources
